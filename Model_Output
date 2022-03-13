@@ -1,0 +1,4 @@
+1) MultinomialNB:
+   % Accuracy = 96.4125561
+2) Random forest Regressor
+   % Accuracy = 96.95.6726
